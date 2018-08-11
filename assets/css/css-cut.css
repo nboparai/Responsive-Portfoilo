@@ -1,0 +1,49 @@
+head1{
+        width: 100%;
+        height: 50%;
+        font-size: 50%; 
+        padding-left: 0%;
+        margin-left: 0%;
+       
+    }
+    .navigation{
+        width: 100%; 
+        font-size: 40%;
+        float: left;
+
+    }
+    .content{
+        width: 100%;
+        
+    }
+    #me{
+        width: 100%;
+        font-size: 50%;
+        float: left;
+    }
+    #footer{
+        width: 100%;
+        
+    }
+    #i8{
+        width: 40%;
+        height:20%;
+    }
+    .images{
+        width: 40%;
+        height: 40%;
+        margin: 0;
+        padding: 0;
+    }
+    #portfolio{
+        width: 100%;
+        margin: 0;
+        font-size: 40%;
+        padding: 0;
+        
+    }
+    #container{
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
